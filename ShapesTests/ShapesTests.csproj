@@ -18,7 +18,8 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\TestLibrary\ShapesLibrary.csproj" />
+    <ProjectReference Include="..\ShapesConsole\ShapesConsole.csproj" />
+    <ProjectReference Include="..\ShapesLibrary\ShapesLibrary.csproj" />
   </ItemGroup>
 
 </Project>

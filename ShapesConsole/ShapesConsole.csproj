@@ -8,8 +8,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\TestLibrary\ShapesLibrary.csproj" />
-    <ProjectReference Include="..\TestLibrary\TestLibrary.csproj" />
+	  <ProjectReference Include="..\ShapesLibrary\ShapesLibrary.csproj" />
   </ItemGroup>
 
 </Project>

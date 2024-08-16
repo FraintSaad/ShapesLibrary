@@ -1,5 +1,5 @@
 ﻿using NUnit.Framework;
-using TestLibrary.Shapes;
+using ShapesLibrary.Shapes;
 
 
 

@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace TestLibrary.Shapes
+namespace ShapesLibrary.Shapes
 {
     public interface IShape
     {
